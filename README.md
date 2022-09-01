@@ -10,3 +10,5 @@ This repository includes machine learning codes for Machine Learning Specializat
  This file includes decision tree analysis
 ## K-means_Clustering.jpynb
  This file includes K-means clustering algorithm code
+## Anomaly_Detection.jpynb
+ This file includes anomaly detection code based on gaussian distribution.
